@@ -1,0 +1,31 @@
+{
+  "name": "prepawebservices",
+  "version": "0.1.0",
+  "description": "Plataforma para que los alumnos de la prepa suban sus paginas, y sean visibles para los demas",
+  "main": "server.js",
+  "scripts": {},
+  "keywords": [
+    "Preparatoria",
+    "Centro",
+    "Escolar",
+    "Presidente",
+    "Juan",
+    "N.",
+    "Mendez",
+    "Plataforma",
+    "Jose",
+    "Ricardo",
+    "Github",
+    "Github",
+    "Pages",
+    "programacion",
+    "node",
+    "js",
+    "npm"
+  ],
+  "author": "JoseRicardo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
